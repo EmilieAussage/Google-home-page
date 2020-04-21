@@ -13,23 +13,22 @@ body {
   
 }
 
-.bouton {
-  padding-left: 15px;
-  padding-top: 7px
-}
 .bouton{
   padding-left: 15px;
   padding-top: 7px
 }
-.bouton{
-  padding-left: 15px;
-  padding-top: 7px
+
+.connexion{
+  border: 1px solid;
+}
+
 }
 .bouton{
   padding-left: 15px;
   padding-top: 7px;
   border: 1px solid;
 }
+
 .connexion {
   padding: 8px 13px 7px;
   border-radius: 2px;
