@@ -3,8 +3,45 @@
   justify-content: flex-end;
   
 }
-#connex{
-  display: flex;
-  justify-content: flex-end;
-  
+.test {
+  padding-left: 15px;
+  padding-top: 7px
+}
+.gmail{
+  padding-left: 15px;
+  padding-top: 7px
+}
+.apps{
+  padding-left: 15px;
+  padding-top: 7px
+}
+.connexion{
+  padding-left: 15px;
+  padding-top: 7px;
+  border: 1px solid;
+}
+.connexion {
+  padding: 8px 13px 7px;
+  border-radius: 2px;
+  color: whitesmoke !important;
+  font-weight: bold;
+  background-color: #4285f4;
+}
+.connexion:hover {
+  box-shadow: 0px 1px 1px #4285f4;
+  text-decoration: none !important;
+  opacity: 1 !important;
+}
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #609;
+}
+
+a:hover {
+  color: #1a0dab;
+  text-decoration: underline;
 }
