@@ -7,8 +7,19 @@ section{
   margin-top: 89px;
   width: 100%;
 }
+
+footer{
+  bottom: 0;
+  front: size 10pt;
+  height: 137px;
+  position: fixed;
+  width: 100%;
+}
+
 body {
   margin: 0;
+  background: #fff;
+  color: #222;
 }
 
 #conteneur{
@@ -54,4 +65,28 @@ a:hover {
 
 .google{
   margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.recherche{
+  margin: 7px 3px 7px 7px;
+  padding: 7px 7px;
+  border: 1px solid;
+  border-radius: 5px;
+  color: whitesmoke !important;
+  font-weight: bold;
+  background-color: grey;
+}
+
+#pied-page{
+
+  bottom: auto;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.content {
+  padding-bottom: 137px;
 }
